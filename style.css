@@ -1,0 +1,70 @@
+*{
+	box-sizing:border-box;
+	margin:0px;
+	padding:0px;
+    font-family: 'Major Mono Display', monospace;
+    background-color: black;
+}
+
+#info_container{
+    background-color:  #0B1F2B;
+    color: #337187;
+    padding: 20px;
+    width: 800px;
+    text-align: center;
+	background-attachment: fixed;
+    background-position: center;
+    margin: auto;
+}
+
+#top_image{
+    text-align: left;
+    padding: 10px;
+}
+
+#bottom_image{
+    text-align: left;
+    padding: 10px;
+}
+
+header{
+	background:url(img/forest.jpg);
+	background-size:cover;
+	background-position:center center;
+    padding: 60px;
+    font-size: 80px;
+    text-align: center;
+    color: #BE0D12;
+}
+
+#signup{
+    font-size: 30px;
+    text-align: center;
+    margin: 0px;
+    padding: 30px;
+    background-color: black;
+    color: white;
+}
+
+#credentials{
+    font-size: 30px;
+    color: #BE0D12;
+}
+
+h1{
+    text-align:left;
+}
+
+a{
+    color: #BE0D12;
+}
+
+.email{
+    color:  #BE0D12;
+    text-align: center;
+}
+
+#submitbtn{
+    padding: 12px;
+    color: #BE0D12;
+}
