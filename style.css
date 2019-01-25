@@ -49,6 +49,7 @@ header{
 #credentials{
     font-size: 30px;
     color: #BE0D12;
+
 }
 
 h1{
@@ -67,4 +68,9 @@ a{
 #submitbtn{
     padding: 12px;
     color: #BE0D12;
+}
+
+input{
+    color: #BE0D12;
+    font-family: monospace;
 }
